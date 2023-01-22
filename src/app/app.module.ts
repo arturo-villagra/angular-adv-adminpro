@@ -15,7 +15,7 @@ import { PagesModule } from './pages/pages.module';
 @NgModule({
   declarations: [
     AppComponent,
-    NopagefoudComponent,
+    NopagefoudComponent
   ],
   imports: [
     BrowserModule,
