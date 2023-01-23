@@ -16,7 +16,9 @@ export class SidebarService {
       [
         { titulo:'Main', url:'/'},
         { titulo:'ProgressBar', url:'./progress'},
+        { titulo:'Promesas', url:'./promesas'},
         { titulo:'Graficas', url:'./grafica1'},
+        { titulo:'Rxjs', url:'./rxjs'},
 
       ]
      }
