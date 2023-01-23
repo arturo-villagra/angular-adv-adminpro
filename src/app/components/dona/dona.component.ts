@@ -4,8 +4,7 @@ import { ChartData,  ChartType } from 'chart.js';
 
 @Component({
   selector: 'app-dona',
-  templateUrl: './dona.component.html',
-  styleUrls: ['./dona.component.css']
+  templateUrl: './dona.component.html'
 })
 export class DonaComponent {
 
